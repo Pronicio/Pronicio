@@ -22,8 +22,11 @@
 ## ⚙️ Programming Tools:
 <p>
   <img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/>
-    <img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ >
+  <img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ >
   <img alt="visualstudio" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
+  <img alt="mongodb" width="60px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"/>
+  <img alt="trello" width="60px" src="https://uploads-ssl.webflow.com/5ebd54898c31000820363e17/5f282977eb5bb481b3fd4385_trello.png"/>
+  <img alt="padlet" width="60px" src="https://teacheverywhere.org/wp-content/uploads/2020/06/ef1210d4305560b0eb3acf6500d5099c.png"/>
 </p>
   
 
@@ -32,7 +35,7 @@
 
 
 ## 🚩 Projects:
-- [<img src="https://cdn.discordapp.com/avatars/662775890194989066/bbcb08bf25ed881631e27c0b7b00fd7b.png?size=2048" width="24"/> Yura](https://yurabot.xyz)
+- [<img src="https://cdn.discordapp.com/avatars/662775890194989066/bbcb08bf25ed881631e27c0b7b00fd7b.png?size=2048" width="24"/> Yura Bot](https://yurabot.xyz)
 
 
 <p align="left"> 

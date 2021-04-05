@@ -2,8 +2,6 @@
 
 [![discord](https://discord.com/api/guilds/665843302767001620/widget.png)](https://discord.gg/etQ3uJN)
 
-
-
 - 🔭 I’m currently working on [YuraBot](https://yurabot.xyz)
 - 📫 How to reach me: [Discord](https://discord.gg/j9WzjnA)
 - 💻 I use [Visual Studio Code](https://code.visualstudio.com/)
@@ -29,13 +27,8 @@
   <img alt="padlet" width="60px" src="https://teacheverywhere.org/wp-content/uploads/2020/06/ef1210d4305560b0eb3acf6500d5099c.png"/>
 </p>
   
-
-
-
-
-
 ## 🚩 Projects:
-- [<img src="https://cdn.discordapp.com/avatars/662775890194989066/bbcb08bf25ed881631e27c0b7b00fd7b.png?size=2048" width="24"/> Yura Bot](https://yurabot.xyz)
+- [<img src="https://avatars.githubusercontent.com/u/66468135?s=200&v=4" width="24"/> Yura Bot](https://yurabot.xyz)
 
 
 <p align="left"> 

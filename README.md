@@ -25,6 +25,9 @@
   <img alt="mongodb" width="60px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"/>
   <img alt="trello" width="60px" src="https://uploads-ssl.webflow.com/5ebd54898c31000820363e17/5f282977eb5bb481b3fd4385_trello.png"/>
   <img alt="padlet" width="60px" src="https://teacheverywhere.org/wp-content/uploads/2020/06/ef1210d4305560b0eb3acf6500d5099c.png"/>
+  <img alt="vue" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/> 
+  <img alt="graphql" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg"/> 
+
 </p>
   
 ## 🚩 Projects:
@@ -37,5 +40,3 @@
 </p>
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pronicio&show_icons=true&hide_border=true" />
-
-Page created by : https://github.com/Derpinou

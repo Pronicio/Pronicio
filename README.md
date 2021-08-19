@@ -30,24 +30,14 @@ I am mainly on the web side of the code. I like the backend as much as the front
 ## ⚙️ Programming Tools:
 
 <p>
-
 <a href="https://github.com" target="_blank"><img alt="github" width="50px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/></a>
-
 <a href="https://git-scm.com/" target="_blank"><img alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ ></a>
-
 <a href="https://code.visualstudio.com" target="_blank"><img alt="visualstudio" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/></a>
-
 <a href="https://www.mongodb.com" target="_blank"><img alt="mongodb" width="60px" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"/></a>
-
 <a href="https://trello.com" target="_blank"><img alt="trello" width="60px" src="https://uploads-ssl.webflow.com/5ebd54898c31000820363e17/5f282977eb5bb481b3fd4385_trello.png"/></a>
-
 <a href="https://padlet.com" target="_blank"><img alt="padlet" width="60px" src="https://teacheverywhere.org/wp-content/uploads/2020/06/ef1210d4305560b0eb3acf6500d5099c.png"/></a>
-
 <a href="https://vuejs.org" target="_blank"><img alt="vue" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/></a>
-
 <a href="https://graphql.org" target="_blank"><img alt="graphql" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg"/></a>
-
-
 </p>
 
 

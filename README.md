@@ -10,7 +10,8 @@ I am a student who lives in France 🇫🇷 !<br>My passion is coding and I plan
 I am mainly on the web side of the code. I like the backend as much as the frontend
 
 
-💻 I use as development IDE [Visual Studio Code](https://code.visualstudio.com/).
+💻 I use as development IDE [Visual Studio Code](https://code.visualstudio.com/).  
+I am currently testing new IDEs like [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) and [WebStorm](https://www.jetbrains.com/webstorm/).
 
 ## 🌍 Programming languages:
 

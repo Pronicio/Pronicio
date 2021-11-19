@@ -5,7 +5,8 @@
 I am a student who lives in France 🇫🇷 !  
 My passion is coding and I plan to make it my job.<br>
 
-🔭 I’m currently working on **several secret projects** !
+🔭 I’m currently working on **several secret projects** !  
+I am part of the [devioo](https://devioo.com/) organization!
 
 I am mainly on the web side of the code. I like the backend as much as the frontend.   
 I am currently learning mobile development with Flutter! <img alt="flutter" width="20px" src="https://iconape.com/wp-content/png_logo_vector/flutter.png" />

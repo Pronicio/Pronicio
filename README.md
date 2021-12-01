@@ -17,6 +17,8 @@ I am currently learning mobile development with Flutter! <img alt="flutter" widt
 ## 🌍 Programming languages:
 
 <p>
+  
+<img alt="phyton" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 

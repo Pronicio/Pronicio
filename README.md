@@ -68,5 +68,3 @@ Visitor count :<br>
 <img src="https://profile-counter.glitch.me/Pronicio/count.svg" />
 
 </p>
-
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Pronicio" />

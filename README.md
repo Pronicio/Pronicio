@@ -17,8 +17,6 @@ I am currently learning mobile development with Flutter! <img alt="flutter" widt
 ## 🌍 Programming languages:
 
 <p>
-  
-<img alt="phyton" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
@@ -36,15 +34,42 @@ I am currently learning mobile development with Flutter! <img alt="flutter" widt
 ## ⚙️ Programming Tools:
 
 <p>
-<a href="https://github.com" target="_blank"><img alt="github" width="60px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg"/></a>
-<a href="https://git-scm.com/" target="_blank"><img alt="git" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png"/ ></a>
-<a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank"><img alt="idea-ultimate" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"/></a>
-<a href="https://code.visualstudio.com" target="_blank"><img alt="visualstudio" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/></a>
-<a href="https://www.mongodb.com" target="_blank"><img alt="mongodb" width="60px" src="https://coollogo.net/wp-content/uploads/2021/03/MongoDB-Icon-logo.svg"/></a>
-<a href="https://trello.com" target="_blank"><img alt="trello" width="60px" src="https://uploads-ssl.webflow.com/5ebd54898c31000820363e17/5f282977eb5bb481b3fd4385_trello.png"/></a>
-<a href="https://padlet.com" target="_blank"><img alt="padlet" width="60px" src="https://teacheverywhere.org/wp-content/uploads/2020/06/ef1210d4305560b0eb3acf6500d5099c.png"/></a>
-<a href="https://vuejs.org" target="_blank"><img alt="vue" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"/></a>
-<a href="https://graphql.org" target="_blank"><img alt="graphql" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg"/></a>
+<a href="https://github.com" target="_blank">
+  <img alt="github" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/github.svg"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+  <img alt="git" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/git.svg"/>
+</a>
+<a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank">
+  <img alt="idea-ultimate" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/IntelliJ_IDEA.svg"/>
+</a>
+<a href="https://code.visualstudio.com" target="_blank">
+  <img alt="visualstudio" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Visual_Studio_Code.svg"/>
+</a>
+<a href="https://www.mongodb.com" target="_blank">
+  <img alt="mongodb" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/MongoDB.svg"/>
+</a>
+<a href="https://trello.com" target="_blank">
+  <img alt="trello" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/trello.svg"/>
+</a>
+<a href="https://vuejs.org" target="_blank">
+  <img alt="vue" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Vue.js.svg"/>
+</a>
+<a href="https://graphql.org" target="_blank">
+  <img alt="graphql" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/GraphQL.svg"/>
+</a>
+  
+<a href="https://discord.js.org" target="_blank">
+  <img alt="discordjs" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/discordjs.png"/>
+</a>
+  
+<a href="https://expressjs.com" target="_blank">
+  <img alt="expressjs" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/expressjs.png"/>
+</a>
+  
+<a href="https://www.fastify.io" target="_blank">
+  <img alt="fastify" width="90px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/fastify.svg"/>
+</a>
 
 </p>
 

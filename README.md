@@ -2,8 +2,9 @@
 
 ### Hi, I'm Pronicio 👋
 
-I am a student who lives in France 🇫🇷 !  
-My passion is coding and I plan to make it my job.<br>
+I am a student who lives in France 🥖 !  
+My passion is coding and I plan to make it my job.  
+I also play the guitar :guitar: to enhance my day.<br>
 
 I am mainly on the web side of the code. I like the backend as much as the frontend.  
 🔭 I’m currently working on **several secret projects** !  

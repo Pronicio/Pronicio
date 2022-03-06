@@ -65,7 +65,7 @@ I am part of the [devioo](https://devioo.com/) organization!
 
 - https://yurabot.xyz (For my bot Discord, *Outdated*)
 
-- https://pronicio.tk (My portfolio, *Currently being redesigned*)
+- https://pronicio.dev (My portfolio)
   
   
 ### <p>📞 &nbsp;Contact me on Discord :</p>

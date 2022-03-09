@@ -43,6 +43,9 @@ I am part of the [devioo](https://devioo.com/) organization!
   <a href="https://trello.com" target="_blank">
     <img alt="trello" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/trello.svg"/>
   </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img alt="vite" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Vite.svg"/>
+  </a>
   <a href="https://vuejs.org" target="_blank">
     <img alt="vue" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Vue.js.svg"/>
   </a>

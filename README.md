@@ -49,6 +49,9 @@ I am part of the [devioo](https://devioo.com/) organization!
   <a href="https://vuejs.org" target="_blank">
     <img alt="vue" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Vue.js.svg"/>
   </a>
+  <a href="https://nuxtjs.org/" target="_blank">
+    <img alt="nuxt" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Nuxt.svg"/>
+  </a>
   <a href="https://graphql.org" target="_blank">
     <img alt="graphql" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/GraphQL.svg"/>
   </a>

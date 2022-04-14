@@ -6,6 +6,8 @@ I am a student who lives in France 🥖 !
 My passion is coding and I plan to make it my job.  
 I also play the guitar :guitar: to enhance my day.<br>
 
+🧬 I am currently learning **C++**. 
+
 I am mainly on the web side of the code. I like the backend as much as the frontend.  
 🔭 I’m currently working on **several secret projects** !  
 I am part of the [devioo](https://devioo.com/) organization! 
@@ -85,4 +87,9 @@ I am part of the [devioo](https://devioo.com/) organization!
 <p align="left">
   Visitor count :<br><br>
   <img src="https://profile-counter.glitch.me/Pronicio/count.svg" />
+</p>
+
+<p align="left">
+  Wakatime stats :<br><br>
+  <a href="https://wakatime.com/@fa794658-052c-46a2-941e-4dc515574900"><img src="https://wakatime.com/badge/user/fa794658-052c-46a2-941e-4dc515574900.svg" alt="Total time coded since Aug 4 2021" /></a>
 </p>

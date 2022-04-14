@@ -34,6 +34,9 @@ I am part of the [devioo](https://devioo.com/) organization!
   <a href="https://www.jetbrains.com/fr-fr/idea/" target="_blank">
     <img alt="idea-ultimate" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/IntelliJ_IDEA.svg"/>
   </a>
+  <a href="https://www.jetbrains.com/fr-fr/clion/" target="_blank">
+    <img alt="clion" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Clion.svg"/>
+  </a>
   <a href="https://code.visualstudio.com" target="_blank">
     <img alt="visualstudio" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Visual_Studio_Code.svg"/>
   </a>

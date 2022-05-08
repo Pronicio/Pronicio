@@ -73,7 +73,7 @@ I am part of the [devioo](https://devioo.com/) organization!
     <img alt="electron" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Electron.svg"/>
   </a>
   <a href="https://tauri.studio/" target="_blank">
-    <img alt="tauri" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Tauri.svg"/>
+    <img alt="tauri" width="50px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Tauri.svg"/>
   </a>
   <a href="https://prettier.io/" target="_blank">
     <img alt="prettier" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Prettier.svg"/>

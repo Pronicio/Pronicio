@@ -49,7 +49,7 @@ I am part of the [devioo](https://devioo.com/) organization!
     <img alt="vite" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Vite.svg"/>
   </a>
   <a href="https://webpack.js.org/" target="_blank">
-    <img alt="webpack" width="90px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Webpack.svg"/>
+    <img alt="webpack" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Webpack.svg"/>
   </a>
   <a href="https://nuxtjs.org/" target="_blank">
     <img alt="nuxt" width="70px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Nuxt.svg"/>
@@ -70,13 +70,13 @@ I am part of the [devioo](https://devioo.com/) organization!
     <img alt="fastify" width="90px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/fastify.svg"/>
   </a>
   <a href="https://www.electronjs.org/" target="_blank">
-    <img alt="electron" width="90px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Electron.svg"/>
+    <img alt="electron" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Electron.svg"/>
   </a>
   <a href="https://tauri.studio/" target="_blank">
-    <img alt="tauri" width="90px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Tauri.svg"/>
+    <img alt="tauri" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Tauri.svg"/>
   </a>
   <a href="https://prettier.io/" target="_blank">
-    <img alt="prettier" width="90px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Prettier.svg"/>
+    <img alt="prettier" width="60px" src="https://raw.githubusercontent.com/Pronicio/Pronicio/main/logo/Prettier.svg"/>
   </a>
 </p>
 

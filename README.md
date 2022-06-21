@@ -100,13 +100,6 @@ I am part of the [devioo](https://devioo.com/) organization!
   <img alt="replit" src="https://img.shields.io/badge/replit-55676e.svg?style=for-the-badge&logo=replit&logoColor=white" />
 </p>
 
-
-### 🚩 My websites :
-
-- https://pronicio.dev (My portfolio)
-
-- https://yurabot.xyz (For my bot Discord, *Outdated*)
-  
   
 ### <p>📞 &nbsp;Contact me on Discord :</p>
 <p>

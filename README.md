@@ -6,7 +6,8 @@ I am a student who lives in France 🥖 !
 My passion is coding and I plan to make it my job.  
 I also play the guitar :guitar: to enhance my day.<br>
 
-🧬 I am currently learning **C++** and **Kotlin**. 
+🧬 I am currently learning **C++** and **Kotlin**.  
+I am also interested in mobile development with the **flutter** framework.  
 
 I am mainly on the web side of the code. I like the backend as much as the frontend.  
 🔭 I’m currently working on **several secret projects** !  

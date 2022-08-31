@@ -6,10 +6,7 @@ I am a student who lives in France 🥖 !
 My passion is coding and I plan to make it my job.  
 I also play the guitar :guitar: to enhance my day.<br>
 
-🧬 I am currently learning **C++** and **Kotlin**.  
-I am also interested in mobile development with the **flutter** framework.  
-
-I am mainly on the web side of the code. I like the backend as much as the frontend.  
+🧬 I like a lot of things in IT, from interface design, web / desktop and mobile application to backend and devops service creation.  
 🔭 I’m currently working on **several secret projects** !  
 I am part of the [devioo](https://devioo.com/) organization! 
 
@@ -22,7 +19,8 @@ I am part of the [devioo](https://devioo.com/) organization!
   <img alt="css" src="https://img.shields.io/badge/-CSS-00A6FF?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="sass" src="https://img.shields.io/badge/sass-ce679a.svg?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="ts" src="https://img.shields.io/badge/typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="ts" src="https://img.shields.io/badge/typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white" /><br>
+  <img alt="go" src="https://img.shields.io/badge/go-70c7d6?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="kt" src="https://img.shields.io/badge/kotlin-9050e4?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>

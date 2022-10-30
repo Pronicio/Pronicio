@@ -20,6 +20,7 @@ I am part of the [devioo](https://devioo.com/) organization!
   <img alt="sass" src="https://img.shields.io/badge/sass-ce679a.svg?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="js" src="https://img.shields.io/badge/-Javascript-FFEE00?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="ts" src="https://img.shields.io/badge/typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white" /><br>
+  <img alt="py" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="go" src="https://img.shields.io/badge/go-70c7d6?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="kt" src="https://img.shields.io/badge/kotlin-9050e4?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />

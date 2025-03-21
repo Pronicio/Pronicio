@@ -14,9 +14,9 @@ I also play the guitar :guitar: to enhance my day.<br>
 💻 I use as development IDE [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) (For larger projects) and [Visual Studio Code](https://code.visualstudio.com/) (For the quick edition).
   
 ## <p>📞 &nbsp;Contact me on Discord :</p>
-<p>
+<a href="https://discord.com/users/477582590329749504" target="_blank">
   <img src="https://discord.c99.nl/widget/theme-4/477582590329749504.png">
-</p>
+</a>
 
 ## Wakatime stats :
 <a href="https://wakatime.com/@fa794658-052c-46a2-941e-4dc515574900"><img src="https://wakatime.com/badge/user/fa794658-052c-46a2-941e-4dc515574900.svg" alt="Total time coded since Aug 4 2021" /></a>
